@@ -1,0 +1,8 @@
+{
+	"name": "ws",
+	"description": "A WebSocket server library for nodejs conforming to the most recent spec (hybi draft 17)",
+	"author": "download <download333@gmail.com>",
+	"engine": {
+		"node": "*"
+	}
+}
